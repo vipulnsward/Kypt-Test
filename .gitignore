@@ -1,0 +1,3 @@
+.settings/*
+bin/*
+src/org/bouncycastle/crypto/digests/RIPEMDExample.java
